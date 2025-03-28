@@ -1,4 +1,0 @@
-Submitter1 name: Shachar Levy
-Submitter1 ID: 330650680
-Submitter2 name: Roee Stein
-Submitter2 ID: 329519193
